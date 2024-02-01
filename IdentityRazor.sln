@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityRazor", "IdentityRazor.csproj", "{8BBFC5E3-E2DB-4394-AA44-7D0DFE36BDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBFC5E3-E2DB-4394-AA44-7D0DFE36BDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBFC5E3-E2DB-4394-AA44-7D0DFE36BDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBFC5E3-E2DB-4394-AA44-7D0DFE36BDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBFC5E3-E2DB-4394-AA44-7D0DFE36BDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33E9F86-F631-4010-9129-2AFD4DB74CEA}
+	EndGlobalSection
+EndGlobal
